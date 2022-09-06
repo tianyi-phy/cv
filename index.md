@@ -6,7 +6,7 @@ email:
   text: woden@cs.cmu.edu
 ---
 
-# Wode **Ni**
+# Tianyi Li
 
 <!--
 include contact information from the front matter
@@ -20,32 +20,23 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Amsterdam** `2021.9 -`
 
 ```
-Pittsburgh, PA
+Amsterdam, Netherlands
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.Sc. in Physics and Astronomy
+- Advised by Ben Freivogel
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Fudan University** `2016.9 - 2021.6`
 
 ```
-Carlisle, PA
+Shanghai, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Physics
+
 
 ## Publications
 
