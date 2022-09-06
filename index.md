@@ -1,12 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Tianyi Li
 email:
-  url: mailto:woden@cs.cmu.edu
+  url: tianyi
   text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
 ---
 
 # Wode **Ni**
