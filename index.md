@@ -41,14 +41,11 @@ Shanghai, China
 ## Publications
 
 ### **Defect Extremal Surface for Reflected Entropy**  
-<br/>
 **Tianyi Li**, Ma-ke Yuan, and Yang Zhou.<br> 
 _Journal of High Energy Physics, 2021. [arXiv:2108.08544](https://arxiv.org/pdf/2108.08544.pdf)_ <br>
 
-<br/>
 
 ### **Reflected Entropy for an Evaporating Black Hole** 
-<br/>
 **Tianyi Li**, Jinwei Chu, and Yang Zhou.<br> 
 _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/2006.10846.pdf)_ <br>
 
