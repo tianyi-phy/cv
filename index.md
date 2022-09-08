@@ -3,7 +3,7 @@ layout: cv
 title: Tianyi Li
 email:
   url: tianyi
-  text: woden@cs.cmu.edu
+  text: tianyi.phys@gmail.com
 ---
 
 # Tianyi Li
