@@ -52,6 +52,12 @@ _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/
 
 ## Research Experience
 
+### **Cosmological data analysis with simulation-based inference** `2022.6 - present`
+
+_Master's Research  &nbsp;&nbsp;  Advisor: Christoph Weniger_<br>
+
+
+
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;  Advisor: Ben Freivogel_<br>
