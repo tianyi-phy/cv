@@ -97,7 +97,7 @@ Libraries & Tools: Pytorch, Mathematica, LaTeX
 
 ## Teaching Experience
 
-Teaching Assistant, Statistical Mechanics 2 `Fudan University, Fall 2021` <br>
+Teaching Assistant, Statistical Mechanics 2 `Fudan University, Fall 2020` <br>
 Main responsibility: answering questions, grading homework, and writing solutions
 
 
