@@ -52,16 +52,16 @@ _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/
 
 ## Research Experience
 
-### **Cosmological data analysis with simulation-based inference** `2022.6 - present`
+### **Cosmological data analysis with simulation-based inference and machine learning techniques** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;  Advisor: Christoph Weniger_<br>
-
+In this project, I employ a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as \Lambda CDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scale poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I am using modified CLASS codes to define a simulator with noise and employing TMNRE to infer the cosmological parameters of this model.
 
 
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;  Advisor: Ben Freivogel_<br>
-There is a type of proposal that the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum perturbation. I am almost done with the first step, mapping the operator of the perturbed metric to the boundary stress tensor using AdS/CFT. The next step is to use quantum deviation, a quantity proposed by Ben Freivogel et.al., to measure the fluctuation of this boudnary operator.
+There is a type of proposal that the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum fluctuation. This project can be divided into two steps. I am almost done with the first step, mapping the operator of the perturbed metric to the boundary stress tensor using AdS/CFT. The next step is to use quantum deviation, a quantity proposed by Ben Freivogel et al., to measure the fluctuation of this boudnary operator.
 
 
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
