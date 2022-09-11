@@ -89,6 +89,18 @@ I have a wide interest in cosmology, particle physics and high energy theory.
 
 - High Energy Theory: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average, and defect conformal field theory. 
 
+## Technical strengths
+- Computer Languages:
+  Python, C/C++
+- Libraries & Tools:
+  Pytorch, Mathematica, LaTeX
+  
+
+## Teaching Experience
+
+Teaching Assistant, **Statistical Mechanics 2** `Fudan University, Fall 2021` <br>
+Main responsibility: answering questions, grading homework, and writing solutions
+
 
 ## Additional Academic Activities
 
@@ -99,10 +111,7 @@ The Conference of Condensed Matter Physics (Liyang, China) `2019.6` <br>
 
 ---
 
-## Teaching Experience
 
-Teaching Assistant, **Statistical Mechanics 2** `Fudan University, Fall 2021` <br>
-Main responsibility: answering questions, grading homework, and writing solutions
 
 
 
