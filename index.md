@@ -99,7 +99,7 @@ I have a wide interest in cosmology, particle physics and high energy theory.<br
 
 ## Teaching Experience
 
-Teaching Assistant, **Statistical Mechanics 2** `Fudan University, Fall 2021` <br>
+Teaching Assistant, Statistical Mechanics 2 `Fudan University, Fall 2021` <br>
 Main responsibility: answering questions, grading homework, and writing solutions
 
 
