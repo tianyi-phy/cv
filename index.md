@@ -84,11 +84,11 @@ We apply machine learning methods to study the phase transition in XY model and 
 
 
 ## Research Interest
-I have a wide interest in cosmology, particle physics and high energy theory.
+I have a wide interest in cosmology, particle physics and high energy theory.<br>
 <br>
-_Cosmology and Particle Physics_: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. Based on my experience in machine learning, I am especially interested in applying these ML techniques to the analysis of the data collected from new observational approaches.
+Cosmology and Particle Physics: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. Based on my experience in machine learning, I am especially interested in applying these ML techniques to the analysis of the data collected from new observational approaches.<br>
 <br>
-_High Energy Theory_: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average, and defect conformal field theory. 
+High Energy Theory: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average, and defect conformal field theory. 
 
 ## Technical strengths
 - Computer Languages:
