@@ -94,8 +94,8 @@ I have a wide interest in cosmology, particle physics and high energy theory.<br
 ## Honors and Awards
 Outstanding Undergraduate Thesis Award  `2021`  
 Outstanding Graduate at Fudan University  `2021`  
-Professional scholarship in department of physics  `2020`  
-College excellent student at Fudan University  `2019`  
+Professional Scholarship in Department of Physics  `2020`  
+College Excellent Student at Fudan University  `2019`  
 
 
 ## Technical strengths
