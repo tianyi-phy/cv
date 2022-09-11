@@ -91,10 +91,8 @@ I have a wide interest in cosmology, particle physics and high energy theory.<br
 **High Energy Theory**: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average, and defect conformal field theory. 
 
 ## Technical strengths
-- Computer Languages:
-  Python, C/C++
-- Libraries & Tools:
-  Pytorch, Mathematica, LaTeX
+Computer Languages: Python, C/C++<br>
+Libraries & Tools: Pytorch, Mathematica, LaTeX
   
 
 ## Teaching Experience
