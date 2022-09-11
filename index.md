@@ -55,7 +55,7 @@ _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/
 ### **Cosmological data analysis with simulation-based inference and machine learning techniques** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;  Advisor: Christoph Weniger_<br>
-In this project, I employ a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as \Lambda CDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scale poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I am using modified CLASS codes to define a simulator with noise and employing TMNRE to infer the cosmological parameters of this model.
+In this project, I employ a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as $\Lambda$ CDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scale poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I am using modified CLASS codes to define a simulator with noise and employing TMNRE to infer the cosmological parameters of this model.
 
 
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
