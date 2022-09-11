@@ -90,6 +90,14 @@ I have a wide interest in cosmology, particle physics and high energy theory.<br
 <br>
 **High Energy Theory**: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average, and defect conformal field theory. 
 
+
+## Honors and Awards
+Outstanding Undergraduate Thesis Award  `2021`  
+Outstanding Graduate at Fudan University  `2021`  
+Professional scholarship in department of physics  `2020`  
+College excellent student at Fudan University  `2019`  
+
+
 ## Technical strengths
 Computer Languages: Python, C/C++<br>
 Libraries & Tools: Pytorch, Mathematica, LaTeX
