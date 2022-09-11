@@ -99,8 +99,8 @@ College Excellent Student at Fudan University  `2019`
 
 
 ## Technical strengths
-Computer Languages: Python, C/C++<br>
-Libraries & Tools: Pytorch, Mathematica, LaTeX
+**Computer Languages**: Python, C/C++<br>
+**Libraries & Tools**: Pytorch, Mathematica, LaTeX
   
 
 ## Teaching Experience
