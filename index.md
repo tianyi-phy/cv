@@ -62,7 +62,7 @@ In this project, I employ a machine learning based technique, Truncated Marginal
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Ben Freivogel_<br>
-There is a type of proposal that the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum fluctuation. This project can be divided into two steps. I am almost done with the first step, mapping the operator of the perturbed metric to the boundary stress tensor using AdS/CFT. The next step is to use quantum deviation, a quantity proposed by Ben Freivogel et al., to measure the fluctuation of this boudnary operator.
+There is a type of proposal that the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum fluctuation. This project can be divided into two steps. I am almost done with the first step, mapping the operator of the perturbed metric near the horizon of an AdS-Schwarzchild black hole to the boundary stress tensor using AdS/CFT. The next step is to use quantum deviation, a quantity proposed by Ben Freivogel et al., to measure the fluctuation of this boundnary operator.
 
 
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
