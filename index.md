@@ -28,7 +28,7 @@ Amsterdam, Netherlands
 
 - M.Sc. in Physics and Astronomy
 - Advised by Ben Freivogel
-- Grade: 9.13/10  
+- Grade: 9.13/10, Top 5%
 
 ### **Fudan University** `2016.9 - 2021.6`
 
