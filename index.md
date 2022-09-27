@@ -53,12 +53,6 @@ _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/
 
 ## Research Experience
 
-### **Cosmological data analysis with simulation-based inference and machine learning techniques** `2022.6 - present`
-
-_Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Christoph Weniger_<br>
-In this project, I employ a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as ΛCDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scales poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I am using modified CLASS codes to define a simulator with noise and employing TMNRE to infer the cosmological parameters of this model.
-
-
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Ben Freivogel_<br>
@@ -86,8 +80,9 @@ We apply machine learning methods to study the phase transition in XY model and 
 ## Research Interest
 I have a wide interest in cosmology, particle physics and high energy theory.<br>
 <br>
-**Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. Based on my experience in machine learning, I am especially interested in applying these ML techniques to the analysis of the data collected from new observational approaches.<br>
 **High Energy Theory**: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average in holography, and quantum gravity in de Sitter, etc.
+
+**Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. Based on my experience in machine learning, I am especially interested in applying these ML techniques to the analysis of the data collected from new observational approaches.<br>
 
 
 ## Honors and Awards
