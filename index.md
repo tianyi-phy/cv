@@ -37,7 +37,7 @@ Shanghai, China
 ```
 
 - B.S. in Physics
-- Thesis: Information theoretic measures in black hole radiation
+- Thesis: Information Theoretic Measures of Black Hole Radiation
 
 ## Publications
 
