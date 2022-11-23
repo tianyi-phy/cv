@@ -72,7 +72,7 @@ In this project, I employed a machine learning based technique, Truncated Margin
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produced the publication 1. We employed AdS/BCFT duality to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrated that the entropy calculated on the boundary side is equivalent to a bulk quantity called ``defect extremal cross section" by combining the partial Randall-Sundrum reduction and Maldacena duality. We found the perfect agreement between the calculation of the boundary and the bulk in both static and time-dependent scenarios 
+This research produced the publication 1. We employed AdS/BCFT duality to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrated that the entropy calculated on the boundary side is equivalent to a bulk quantity called "defect extremal cross section" by combining the partial Randall-Sundrum reduction and Maldacena duality. We found the perfect agreement between the calculation of the boundary and the bulk in both static and time-dependent scenarios 
 
 ### **Refected entropy of Hawking radiation** `2020.1 - 2020.6`
 
@@ -91,7 +91,7 @@ We applied machine learning methods to study the phase transition in the XY mode
 I have a wide interest in cosmology, particle physics and high energy theory.<br>
 <br>
 **High Energy Theory**: I have an interest in many topics in AdS/CFT, such as the interplay between quantum information and quantum gravity, ensemble average in holography, black hole thermodynamics, and low-dimensional quantum gravity.<br>
-
+<br>
 **Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. I am also interested in applying ML techniques to analyze the data collected from new observational approaches.<br>
 
 
