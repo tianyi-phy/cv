@@ -67,18 +67,17 @@ According to Giddings's proposal in the paper ``Nonviolent nonlocality", the geo
 ### **Cosmological data analysis with simulation-based inference and machine learning techniques** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Christoph Weniger_<br>
-simulation-based inference}{2022.6 - 2022.10}{Master's Research}{Advisor: Dr. Christoph Weniger}
-In this project, I employed a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as $\Lambda$CDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scales poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I wrote modified CLASS codes to define a simulator with noise and employed TMNRE to infer the cosmological parameters of this model.
+In this project, I employed a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as ΛCDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scales poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I wrote modified CLASS codes to define a simulator with noise and employed TMNRE to infer the cosmological parameters of this model.
 
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produced the publication \framebox{1}. We employed AdS/BCFT duality to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrated that the entropy calculated on the boundary side is equivalent to a bulk quantity called ``defect extremal cross section" by combining the partial Randall-Sundrum reduction and Maldacena duality. We found the perfect agreement between the calculation of the boundary and the bulk in both static and time-dependent scenarios 
+This research produced the publication 1. We employed AdS/BCFT duality to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrated that the entropy calculated on the boundary side is equivalent to a bulk quantity called ``defect extremal cross section" by combining the partial Randall-Sundrum reduction and Maldacena duality. We found the perfect agreement between the calculation of the boundary and the bulk in both static and time-dependent scenarios 
 
 ### **Refected entropy of Hawking radiation** `2020.1 - 2020.6`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produced the publication \framebox{2}. We studied the reflected entropy as a measure of the correlation between mixed states in the process of black hole evaporation. Specifically, we computed the reflected entropy between radiation and the black hole in three different models and studied its behavior in the whole process. Moreover, inspired by the recent island formula, we proposed a generalized formula for reflected entropy with island cross-section as its area term. This formula reveals some interesting information features of the island. 
+This research produced the publication 2. We studied the reflected entropy as a measure of the correlation between mixed states in the process of black hole evaporation. Specifically, we computed the reflected entropy between radiation and the black hole in three different models and studied its behavior in the whole process. Moreover, inspired by the recent island formula, we proposed a generalized formula for reflected entropy with island cross-section as its area term. This formula reveals some interesting information features of the island. 
 
 ### **Machine learning of phase transitions in spin models** `2019.8 - 2019.12`
 
