@@ -51,32 +51,39 @@ _Journal of High Energy Physics, 2021. [arXiv:2108.08544](https://arxiv.org/pdf/
 _Journal of High Energy Physics, 2020. [arXiv:2006.10846](https://arxiv.org/pdf/2006.10846.pdf)_ <br>
 
 
+## Honors and Awards
+Outstanding Undergraduate Thesis Award  `2021`  
+Outstanding Graduate at Fudan University  `2021`  
+Professional Scholarship in Department of Physics  `2020`  
+College Excellent Student at Fudan University  `2019`  
+
 ## Research Experience
 
 ### **Reconstruction of the perturbation of the metric near horizon and its quantum deviation** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Ben Freivogel_<br>
-There is a type of proposal that the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum fluctuation. This project can be divided into two steps. I am almost done with the first step, mapping the operator of the perturbed metric near the horizon of an AdS-Schwarzchild black hole to the boundary stress tensor using AdS/CFT. The next step is to use quantum deviation, a quantity proposed by Ben Freivogel et al., to measure the fluctuation of this boundnary operator.
+According to Giddings's proposal in the paper ``Nonviolent nonlocality", the geometry near the horizon of a black hole is different for different black hole microstates, which may even be detected by gravitational wave detectors such as LIGO. In this project, we try to impose constraints on the order of magnitude of this quantum fluctuation. This project can be divided into two steps. The first step is to reconstruct the operator of the perturbed metric near the horizon of an AdS-Schwarzchild black hole in terms of the boundary stress tensor using the HKLL technique. The second step is to use quantum deviation, a quantum information-theoretic quantity proposed by Ben Freivogel et al., to measure the fluctuation of this boundary operator.
 
 ### **Cosmological data analysis with simulation-based inference and machine learning techniques** `2022.6 - present`
 
 _Master's Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Dr. Christoph Weniger_<br>
-In this project, I employ a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as ΛCDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scales poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I am using modified CLASS codes to define a simulator with noise and employing TMNRE to infer the cosmological parameters of this model.
+simulation-based inference}{2022.6 - 2022.10}{Master's Research}{Advisor: Dr. Christoph Weniger}
+In this project, I employed a machine learning based technique, Truncated Marginal Neural Ratio Estimation (TMNRE) to analyze CMB data. For simple cosmological models such as $\Lambda$CDM, it is fast and convenient to use conventional sampling-based methods such as MCMC to infer the parameters. However, MCMC scales poorly with dimensionality for extended cosmological models. In this case, simulation-based inference such as TMNRE is a powerful tool. Here I consider a phenomenological early dark energy model (Ye et al. 2020) with extended parameters. I wrote modified CLASS codes to define a simulator with noise and employed TMNRE to infer the cosmological parameters of this model.
 
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produces the publication 1. We employ the quantum gravity model proposed in our previous work to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrate that the entropy calculated on the boundary side is equivalent to a bulk quantity called "defect extremal cross section" by combining the partial Randall-Sundrum reduction and holographic duality. We find perfect agreement in both static and time-dependent scenarios. 
+This research produced the publication \framebox{1}. We employed AdS/BCFT duality to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrated that the entropy calculated on the boundary side is equivalent to a bulk quantity called ``defect extremal cross section" by combining the partial Randall-Sundrum reduction and Maldacena duality. We found the perfect agreement between the calculation of the boundary and the bulk in both static and time-dependent scenarios 
 
 ### **Refected entropy of Hawking radiation** `2020.1 - 2020.6`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produces the publication 2. We study the reflected entropy as a correlated measure of mixed states in the process of black hole evaporation. Specifically, we compute the reflected entropy between radiation and black hole in three different models and study its behavior in the whole evaporation process. Moreover, inspired by the recent island formula, we propose a generalized formula for reflected entropy with island cross section as its area term. This formula reveals some interesting information features of the island. 
+This research produced the publication \framebox{2}. We studied the reflected entropy as a measure of the correlation between mixed states in the process of black hole evaporation. Specifically, we computed the reflected entropy between radiation and the black hole in three different models and studied its behavior in the whole process. Moreover, inspired by the recent island formula, we proposed a generalized formula for reflected entropy with island cross-section as its area term. This formula reveals some interesting information features of the island. 
 
 ### **Machine learning of phase transitions in spin models** `2019.8 - 2019.12`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yan Chen_<br>
-We apply machine learning methods to study the phase transition in XY model and 3-dimensional Ising model. Samples of the model at different temperature, distributed on both sides of the critical point, are generated by the Monte Carlo algorithm. By exemplifying and simulating the XY model, we exhibit a new method, which integrates Monte Carlo, VAE and neural network algorithm to help describe the phase transition and accurately estimate their critical point.
+We applied machine learning methods to study the phase transition in the XY model and the 3-dimensional Ising model. Samples of the model at different temperatures, distributed on both sides of the critical point, are generated by the Monte Carlo algorithm. By exemplifying and simulating the XY model, we exhibit a new method, which integrates Monte Carlo, Variational Auto Encoder, and neural network algorithms to help describe the phase transition and accurately estimate their critical point.
 
 
 
@@ -84,16 +91,9 @@ We apply machine learning methods to study the phase transition in XY model and 
 ## Research Interest
 I have a wide interest in cosmology, particle physics and high energy theory.<br>
 <br>
-**High Energy Theory**: I have interest in many topics in AdS/CFT. Two of my past research experience focused on the black hole information paradox from the perspective of holography. I am also interested in the interplay between quantum information and quantum gravity, topics of ensemble average in holography, and quantum gravity in de Sitter, etc.
+**High Energy Theory**: I have an interest in many topics in AdS/CFT, such as the interplay between quantum information and quantum gravity, ensemble average in holography, black hole thermodynamics, and low-dimensional quantum gravity.
 
-**Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. Based on my experience in machine learning, I am especially interested in applying these ML techniques to the analysis of the data collected from new observational approaches.<br>
-
-
-## Honors and Awards
-Outstanding Undergraduate Thesis Award  `2021`  
-Outstanding Graduate at Fudan University  `2021`  
-Professional Scholarship in Department of Physics  `2020`  
-College Excellent Student at Fudan University  `2019`  
+**Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. I am also interested in applying ML techniques to analyze the data collected from new observational approaches.<br>
 
 
 ## Technical strengths
