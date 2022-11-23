@@ -90,7 +90,7 @@ We applied machine learning methods to study the phase transition in the XY mode
 ## Research Interest
 I have a wide interest in cosmology, particle physics and high energy theory.<br>
 <br>
-**High Energy Theory**: I have an interest in many topics in AdS/CFT, such as the interplay between quantum information and quantum gravity, ensemble average in holography, black hole thermodynamics, and low-dimensional quantum gravity.
+**High Energy Theory**: I have an interest in many topics in AdS/CFT, such as the interplay between quantum information and quantum gravity, ensemble average in holography, black hole thermodynamics, and low-dimensional quantum gravity.<br>
 
 **Cosmology and Particle Physics**: I am interested in using astrophysical observations to find signals of physics beyond the Standard Model and know more about the dark universe. I am also interested in applying ML techniques to analyze the data collected from new observational approaches.<br>
 
